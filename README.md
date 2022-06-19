@@ -5,4 +5,5 @@ npm install
 
 ## 2. Inicializar el proyecto
 cd vue-project
+#
 npm run dev
